@@ -77,7 +77,6 @@ To build a release APK:
 
 ```bash
 flutter build apk --release
-- The generated APK will be located at:
-Копировать код
 
+## The generated APK will be located at
 build/app/outputs/flutter-apk/app-release.apk
